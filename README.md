@@ -1,4 +1,4 @@
-# Content Recommendation System with Embeddings & Ranking (2025)
+# Content Recommendation System with Embeddings & Ranking
 
 End-to-end recommendation pipeline in Python:
 - Neural retrieval model (TensorFlow) to learn user/item embeddings
